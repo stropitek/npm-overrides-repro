@@ -1,0 +1,14 @@
+{
+  "name": "@zakodium/profid",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "./front"
+  ],
+  "overrides": {
+    "graphql": "$graphql"
+  },
+  "volta": {
+    "node": "20.11.0"
+  }
+}

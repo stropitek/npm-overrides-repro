@@ -1,0 +1,12 @@
+{
+  "name": "@zakodium/profid-front",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react-roi": "0.8.1"
+  },
+  "volta": {
+    "extends": "../package.json"
+  }
+}
