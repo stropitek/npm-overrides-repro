@@ -1,5 +1,7 @@
 ## Steps to reproduce
 
+Using npm 10.3.0 (see volta config in `package.json`)
+
 1. `npm ci`
 2. `npm ls` <- 0.8.1
 3. `npm i -w front --save-exact react-roi@0.9.0`
